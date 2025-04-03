@@ -1,6 +1,6 @@
 # 2239. Find Closest Number to Zero
 
-**Difficulty:** Easy
+**Difficulty:** Easy <br>
 **Topics:** Array, Sorting
 
 ## Problem Statement

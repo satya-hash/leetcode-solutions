@@ -37,6 +37,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | ✅  | Day | Problem                                                                            | Solution                                                 |
 | --- | --- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | [x] | 1   | [2239. Find Closest Number to Zero](2239_Find_Closest_Number_to_Zero/statement.md) | [Solution](2239_Find_Closest_Number_to_Zero/solution.js) |
+| [ ] | 2   | [1768. Merge Strings Alternately](1768_Merge_Strings_Alternately/statement.md)     | [Solution](1768_Merge_Strings_Alternately/solution.js)   |
 
 ## Let's Connect 🤝
 
