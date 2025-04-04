@@ -37,7 +37,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | ✅  | Day | Problem                                                                                       | Solution                                                            |
 | --- | --- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | [x] | 1   | [2239. Find Closest Number to Zero](2239.%20Find%20Closest%20Number%20to%20Zero/statement.md) | [Solution](2239.%20Find%20Closest%20Number%20to%20Zero/solution.js) |
-| [ ] | 2   | [1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately/statement.md)         | [Solution](1768.%20Merge%20Strings%20Alternately/solution.js)       |
+| [x] | 2   | [1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately/statement.md)         | [Solution](1768.%20Merge%20Strings%20Alternately/solution.js)       |
 | [ ] | 3   | [108. Convert Sorted Array to BST](108.%20Convert%20Sorted%20Array%20to%20BST/statement.md)   | [Solution](108.%20Convert%20Sorted%20Array%20to%20BST/solution.js)  |
 
 ## Let's Connect 🤝
