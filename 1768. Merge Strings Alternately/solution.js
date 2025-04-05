@@ -21,3 +21,7 @@ var mergeAlternately = function (word1, word2) {
     }
     return result;
 };
+
+let word1 = "abc", word2 = "pqr"
+// output "apbqcr"
+console.log(mergeAlternately(word1, word2))

@@ -10,3 +10,7 @@ var findClosestNumber = function (nums) {
     }
     return near;
 };
+
+let nums = [-4, -2, 1, 4, 8]
+// output 1
+console.log(findClosestNumber(nums))
