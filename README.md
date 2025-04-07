@@ -43,7 +43,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 2   | [1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately/statement.md)                   | [Solution](1768.%20Merge%20Strings%20Alternately/solution.js)              |
 | [x] | 3   | [108. Convert Sorted Array to BST](108.%20Convert%20Sorted%20Array%20to%20BST/statement.md)             | [Solution](108.%20Convert%20Sorted%20Array%20to%20BST/solution.js)         |
 | [x] | 4   | [13. Roman to Integer](13.%20Roman%20to%20Integer/statement.md)                                         | [Solution](13.%20Roman%20to%20Integer/solution.js)                         |
-| [ ] | 5   | [392. Is Subsequence](392.%20Is%20Subsequence/statement.md)                                             | [Solution](392.%20Is%20Subsequence/solution.js)                            |
+| [x] | 5   | [392. Is Subsequence](392.%20Is%20Subsequence/statement.md)                                             | [Solution](392.%20Is%20Subsequence/solution.js)                            |
 | [ ] | 6   | [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/statement.md) | [Solution](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js) |
 
 ## Let's Connect 🤝
