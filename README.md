@@ -45,7 +45,8 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 4   | [13. Roman to Integer](13.%20Roman%20to%20Integer/statement.md)                                                   | [Solution](13.%20Roman%20to%20Integer/solution.js)                                       |
 | [x] | 5   | [392. Is Subsequence](392.%20Is%20Subsequence/statement.md)                                                       | [Solution](392.%20Is%20Subsequence/solution.js)                                          |
 | [x] | 6   | [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/statement.md)           | [Solution](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)               |
-| []  | 7   | [303. Range Sum Query - Immutable](patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/statement.md) | [Solution](patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/solution.js) |
+| [x] | 7   | [303. Range Sum Query - Immutable](patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/statement.md) | [Solution](patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/solution.js) |
+| []  | 8   | [525. Contiguous Array](patterns/1.prefix_sum/525.%20Contiguous%20Array/statement.md)                             | [Solution](patterns/1.prefix_sum/525.%20Contiguous%20Array/solution.js)                  |
 
 ## Let's Connect 🤝
 
