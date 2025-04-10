@@ -19,7 +19,7 @@ A height-balanced binary search tree is a binary tree in which the depth of the 
 nums = [-10,-3,0,5,9]
 ```
 
-**Output:**
+**Output: the output is in level order traversal**
 
 ```plaintext
 [0,-3,9,-10,null,5]
