@@ -49,7 +49,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 8   | [525. Contiguous Array](patterns/1.prefix_sum/525.%20Contiguous%20Array/statement.md)                             | [Solution](patterns/1.prefix_sum/525.%20Contiguous%20Array/solution.js)                  |
 | [x] | 9   | [14. Longest Common Prefix](14.%20Longest%20Common%20Prefix/statement.md)                                         | [Solution](14.%20Longest%20Common%20Prefix/solution.js)                                  |
 | [x] | 10  | [228. Summary Ranges](228.%20Summary%20Ranges/statement.md)                                                       | [Solution](228.%20Summary%20Ranges/solution.js)                                          |
-| []  | 11  | [560. Subarray Sum Equals K](patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/statement.md)               | [Solution](patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/solution.js)         |
+| [x] | 11  | [560. Subarray Sum Equals K](patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/statement.md)               | [Solution](patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/solution.js)         |
 | []  | 12  | [238. Product of Array Except Self](238.%20Product%20of%20Array%20Except%20Self/statement.md)                     | [Solution](238.%20Product%20of%20Array%20Except%20Self/solution.js)                      |
 | []  | 13  | [56. Merge Intervals](56.%20Merge%20Intervals/statement.md)                                                       | [Solution](56.%20Merge%20Intervals/solution.js)                                          |
 
