@@ -53,7 +53,8 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 12  | [238. Product of Array Except Self](238.%20Product%20of%20Array%20Except%20Self/statement.md)                     | [Solution](238.%20Product%20of%20Array%20Except%20Self/solution.js)                      |
 | [x] | 13  | [56. Merge Intervals](56.%20Merge%20Intervals/statement.md)                                                       | [Solution](56.%20Merge%20Intervals/solution.js)                                          |
 | [x] | 14  | [54. Spiral Matrix](54.%20Spiral%20Matrix/statement.md)                                                           | [Solution](54.%20Spiral%20Matrix/solution.js)                                            |
-| []  | 15  | [48. Rotate Image](48.%20Rotate%20Image/statement.md)                                                             | [Solution](48.%20Rotate%20Image/solution.js)                                             |
+| [x] | 15  | [48. Rotate Image](48.%20Rotate%20Image/statement.md)                                                             | [Solution](48.%20Rotate%20Image/solution.js)                                             |
+| [ ] | 16  | [771. Jewels and Stones](771.%20Jewels%20and%20Stones/statement.md)                                               | [Solution](771.%20Jewels%20and%20Stones/solution.js)                                     |
 
 ## Let's Connect 🤝
 
