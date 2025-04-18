@@ -54,7 +54,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 13  | [56. Merge Intervals](56.%20Merge%20Intervals/statement.md)                                                       | [Solution](56.%20Merge%20Intervals/solution.js)                                          |
 | [x] | 14  | [54. Spiral Matrix](54.%20Spiral%20Matrix/statement.md)                                                           | [Solution](54.%20Spiral%20Matrix/solution.js)                                            |
 | [x] | 15  | [48. Rotate Image](48.%20Rotate%20Image/statement.md)                                                             | [Solution](48.%20Rotate%20Image/solution.js)                                             |
-| [ ] | 16  | [771. Jewels and Stones](771.%20Jewels%20and%20Stones/statement.md)                                               | [Solution](771.%20Jewels%20and%20Stones/solution.js)                                     |
+| [x] | 16  | [771. Jewels and Stones](771.%20Jewels%20and%20Stones/statement.md)                                               | [Solution](771.%20Jewels%20and%20Stones/solution.js)                                     |
 | [ ] | 17  | [217. Contains Duplicate](217.%20Contains%20Duplicate/statement.md)                                               | [Solution](217.%20Contains%20Duplicate/solution.js)                                      |
 | [ ] | 18  | [383. Ransom Note](383.%20Ransom%20Note/statement.md)                                                             | [Solution](383.%20Ransom%20Note/solution.js)                                             |
 
