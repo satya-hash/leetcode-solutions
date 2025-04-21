@@ -61,6 +61,9 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [ ] | 20  | [643. Maximum Average Subarray I](643.%20Maximum%20Average%20Subarray%20I/statement.md)                                       | [Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)                          |
 | []  | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
 | []  | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
+| [ ] | 23  | [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)               | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/solution.js)          |
+| [ ] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
+| []  | 25  | [283. Move Zeroes](283.%20Move%20Zeroes/statement.md)                                                                         | [Solution](283.%20Move%20Zeroes/solution.js)                                             |
 
 ## Let's Connect 🤝
 
