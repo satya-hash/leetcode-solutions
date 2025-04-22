@@ -58,12 +58,18 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 17  | [217. Contains Duplicate](217.%20Contains%20Duplicate/statement.md)                                                           | [Solution](217.%20Contains%20Duplicate/solution.js)                                      |
 | [x] | 18  | [383. Ransom Note](383.%20Ransom%20Note/statement.md)                                                                         | [Solution](383.%20Ransom%20Note/solution.js)                                             |
 | [x] | 19  | [53. Maximum Subarray](53.%20Maximum%20Subarray/statement.md)                                                                 | [Solution](53.%20Maximum%20Subarray/solution.js)                                         |
-| [ ] | 20  | [643. Maximum Average Subarray I](643.%20Maximum%20Average%20Subarray%20I/statement.md)                                       | [Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)                          |
+| [x] | 20  | [643. Maximum Average Subarray I](643.%20Maximum%20Average%20Subarray%20I/statement.md)                                       | [Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)                          |
 | []  | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
 | []  | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
 | [ ] | 23  | [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)               | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/solution.js)          |
 | [ ] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
 | []  | 25  | [283. Move Zeroes](283.%20Move%20Zeroes/statement.md)                                                                         | [Solution](283.%20Move%20Zeroes/solution.js)                                             |
+| [ ] | 26  | [20. Valid Parentheses](20.%20Valid%20Parentheses/statement.md)                                                               | [Solution](20.%20Valid%20Parentheses/solution.js)                                        |
+| [ ] | 27  | [739. Daily Temperatures](739.%20Daily%20Temperatures/statement.md)                                                           | [Solution](739.%20Daily%20Temperatures/solution.js)                                      |
+| [ ] | 28  | [155. Min Stack](155.%20Min%20Stack/statement.md)                                                                             | [Solution](155.%20Min%20Stack/solution.js)                                               |
+| [ ] | 29  | [994. Rotting Oranges](994.%20Rotting%20Oranges/statement.md)                                                                 | [Solution](994.%20Rotting%20Oranges/solution.js)                                         |
+| [ ] | 30  | [933. Number of Recent Calls](933.%20Number%20of%20Recent%20Calls/statement.md)                                               | [Solution](933.%20Number%20of%20Recent%20Calls/solution.js)                              |
+| [ ] | 31  | [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks/statement.md)                                   | [Solution](232.%20Implement%20Queue%20using%20Stacks/solution.js)                        |
 
 ## Let's Connect 🤝
 
