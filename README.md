@@ -59,7 +59,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 18  | [383. Ransom Note](383.%20Ransom%20Note/statement.md)                                                                         | [Solution](383.%20Ransom%20Note/solution.js)                                             |
 | [x] | 19  | [53. Maximum Subarray](53.%20Maximum%20Subarray/statement.md)                                                                 | [Solution](53.%20Maximum%20Subarray/solution.js)                                         |
 | [x] | 20  | [643. Maximum Average Subarray I](643.%20Maximum%20Average%20Subarray%20I/statement.md)                                       | [Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)                          |
-| []  | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
+| [x] | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
 | []  | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
 | [ ] | 23  | [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)               | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/solution.js)          |
 | [ ] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
@@ -70,6 +70,9 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [ ] | 29  | [994. Rotting Oranges](994.%20Rotting%20Oranges/statement.md)                                                                 | [Solution](994.%20Rotting%20Oranges/solution.js)                                         |
 | [ ] | 30  | [933. Number of Recent Calls](933.%20Number%20of%20Recent%20Calls/statement.md)                                               | [Solution](933.%20Number%20of%20Recent%20Calls/solution.js)                              |
 | [ ] | 31  | [232. Implement Queue using Stacks](232.%20Implement%20Queue%20using%20Stacks/statement.md)                                   | [Solution](232.%20Implement%20Queue%20using%20Stacks/solution.js)                        |
+| [ ] | 32  | [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List/statement.md)                                       | [Solution](876.%20Middle%20of%20the%20Linked%20List/solution.js)                         |
+| [ ] | 33  | [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists/statement.md)                                                 | [Solution](21.%20Merge%20Two%20Sorted%20Lists/solution.js)                               |
+| [ ] | 34  | [206. Reverse Linked List](206.%20Reverse%20Linked%20List/statement.md)                                                       | [Solution](206.%20Reverse%20Linked%20List/solution.js)                                   |
 
 ## Let's Connect 🤝
 
