@@ -60,7 +60,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 19  | [53. Maximum Subarray](53.%20Maximum%20Subarray/statement.md)                                                                 | [Solution](53.%20Maximum%20Subarray/solution.js)                                         |
 | [x] | 20  | [643. Maximum Average Subarray I](643.%20Maximum%20Average%20Subarray%20I/statement.md)                                       | [Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)                          |
 | [x] | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
-| []  | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
+| [x] | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
 | [ ] | 23  | [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)               | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/solution.js)          |
 | [ ] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
 | []  | 25  | [283. Move Zeroes](283.%20Move%20Zeroes/statement.md)                                                                         | [Solution](283.%20Move%20Zeroes/solution.js)                                             |
@@ -73,6 +73,10 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [ ] | 32  | [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List/statement.md)                                       | [Solution](876.%20Middle%20of%20the%20Linked%20List/solution.js)                         |
 | [ ] | 33  | [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists/statement.md)                                                 | [Solution](21.%20Merge%20Two%20Sorted%20Lists/solution.js)                               |
 | [ ] | 34  | [206. Reverse Linked List](206.%20Reverse%20Linked%20List/statement.md)                                                       | [Solution](206.%20Reverse%20Linked%20List/solution.js)                                   |
+| [ ] | 35  | [62. Unique Paths](62.%20Unique%20Paths/statement.md)                                                                         | [Solution](62.%20Unique%20Paths/solution.js)                                             |
+| [ ] | 36  | [143. Reorder List](143.%20Reorder%20List/statement.md)                                                                       | [Solution](143.%20Reorder%20List/solution.js)                                            |
+| [ ] | 37  | [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/statement.md)                       | [Solution](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)               |
+| [ ] | 38  | [141. Linked List Cycle](141.%20Linked%20List%20Cycle/statement.md)                                                           | [Solution](141.%20Linked%20List%20Cycle/solution.js)                                     |
 
 ## Let's Connect 🤝
 
