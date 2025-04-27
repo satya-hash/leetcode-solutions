@@ -62,7 +62,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 21  | [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md) | [Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)      |
 | [x] | 22  | [125. Valid Palindrome](125.%20Valid%20Palindrome/statement.md)                                                               | [Solution](125.%20Valid%20Palindrome/solution.js)                                        |
 | [x] | 23  | [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)               | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/solution.js)          |
-| [ ] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
+| [x] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
 | []  | 25  | [283. Move Zeroes](283.%20Move%20Zeroes/statement.md)                                                                         | [Solution](283.%20Move%20Zeroes/solution.js)                                             |
 | [ ] | 26  | [20. Valid Parentheses](20.%20Valid%20Parentheses/statement.md)                                                               | [Solution](20.%20Valid%20Parentheses/solution.js)                                        |
 | [ ] | 27  | [739. Daily Temperatures](739.%20Daily%20Temperatures/statement.md)                                                           | [Solution](739.%20Daily%20Temperatures/solution.js)                                      |
@@ -77,6 +77,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [ ] | 36  | [143. Reorder List](143.%20Reorder%20List/statement.md)                                                                       | [Solution](143.%20Reorder%20List/solution.js)                                            |
 | [ ] | 37  | [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/statement.md)                       | [Solution](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)               |
 | [ ] | 38  | [141. Linked List Cycle](141.%20Linked%20List%20Cycle/statement.md)                                                           | [Solution](141.%20Linked%20List%20Cycle/solution.js)                                     |
+| [ ] | 39  | [36. Valid Sudoku](36.%20Valid%20Sudoku/statement.md)                                                                         | [Solution](36.%20Valid%20Sudoku/solution.js)                                             |
 
 ## Let's Connect 🤝
 
