@@ -65,7 +65,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 24  | [15. 3Sum](15.%203Sum/statement.md)                                                                                           | [Solution](15.%203Sum/solution.js)                                                       |
 | [x] | 25  | [283. Move Zeroes](283.%20Move%20Zeroes/statement.md)                                                                         | [Solution](283.%20Move%20Zeroes/solution.js)                                             |
 | [x] | 26  | [20. Valid Parentheses](20.%20Valid%20Parentheses/statement.md)                                                               | [Solution](20.%20Valid%20Parentheses/solution.js)                                        |
-| [ ] | 27  | [739. Daily Temperatures](739.%20Daily%20Temperatures/statement.md)                                                           | [Solution](739.%20Daily%20Temperatures/solution.js)                                      |
+| [x] | 27  | [739. Daily Temperatures](739.%20Daily%20Temperatures/statement.md)                                                           | [Solution](739.%20Daily%20Temperatures/solution.js)                                      |
 | [ ] | 28  | [155. Min Stack](155.%20Min%20Stack/statement.md)                                                                             | [Solution](155.%20Min%20Stack/solution.js)                                               |
 | [ ] | 29  | [994. Rotting Oranges](994.%20Rotting%20Oranges/statement.md)                                                                 | [Solution](994.%20Rotting%20Oranges/solution.js)                                         |
 | [ ] | 30  | [933. Number of Recent Calls](933.%20Number%20of%20Recent%20Calls/statement.md)                                               | [Solution](933.%20Number%20of%20Recent%20Calls/solution.js)                              |
@@ -80,6 +80,13 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [ ] | 39  | [36. Valid Sudoku](36.%20Valid%20Sudoku/statement.md)                                                                         | [Solution](36.%20Valid%20Sudoku/solution.js)                                             |
 | [ ] | 40  | [172. Factorial Trailing Zeroes](172.%20Factorial%20Trailing%20Zeroes/statement.md)                                           | [Solution](172.%20Factorial%20Trailing%20Zeroes/solution.js)                             |
 | [ ] | 41  | [509. Fibonacci Number](509.%20Fibonacci%20Number/statement.md)                                                               | [Solution](509.%20Fibonacci%20Number/solution.js)                                        |
+| [ ] | 42  | [704. Binary Search](704.%20Binary%20Search/statement.md)                                                                     | [Solution](704.%20Binary%20Search/solution.js)                                           |
+| [ ] | 43  | [153. Find Minimum in Rotated Sorted Array](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/statement.md)               | [Solution](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.js)            |
+| [ ] | 44  | [35. Search Insert Position](35.%20Search%20Insert%20Position/statement.md)                                                   | [Solution](35.%20Search%20Insert%20Position/solution.js)                                 |
+| [ ] | 45  | [367. Valid Perfect Square](367.%20Valid%20Perfect%20Square/statement.md)                                                     | [Solution](367.%20Valid%20Perfect%20Square/solution.js)                                  |
+| [ ] | 46  | [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix/statement.md)                                                         | [Solution](74.%20Search%20a%202D%20Matrix/solution.js)                                   |
+| [ ] | 47  | [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array/statement.md)                               | [Solution](33.%20Search%20in%20Rotated%20Sorted%20Array/solution.js)                     |
+| [ ] | 48  | [875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas/statement.md)                                                       | [Solution](875.%20Koko%20Eating%20Bananas/solution.js)                                   |
 
 ## Let's Connect 🤝
 
