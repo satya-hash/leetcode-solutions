@@ -87,6 +87,18 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 46  | [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix/statement.md)                                                         | [Solution](74.%20Search%20a%202D%20Matrix/solution.js)                                   |
 | [x] | 47  | [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array/statement.md)                               | [Solution](33.%20Search%20in%20Rotated%20Sorted%20Array/solution.js)                     |
 | [x] | 48  | [875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas/statement.md)                                                       | [Solution](875.%20Koko%20Eating%20Bananas/solution.js)                                   |
+| [x] | 49  | [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree/statement.md)                                                         | [Solution](226.%20Invert%20Binary%20Tree/solution.js)                                    |
+| []  | 50  | [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree/statement.md)                                 | [Solution](104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.js)                      |
+| []  | 51  | [543. Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree/statement.md)                                             | [Solution](543.%20Diameter%20of%20Binary%20Tree/solution.js)                             |
+| []  | 52  | [102. Binary Tree Level Order Traversal](102.%20Binary%20Tree%20Level%20Order%20Traversal/statement.md)                       | [Solution](102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.js)                 |
+| []  | 53  | [70. Climbing Stairs](70.%20Climbing%20Stairs/statement.md)                                                                   | [Solution](70.%20Climbing%20Stairs/solution.js)                                          |
+| []  | 54  | [198. House Robber](198.%20House%20Robber/statement.md)                                                                       | [Solution](198.%20House%20Robber/solution.js)                                            |
+| []  | 55  | [494. Target Sum](494.%20Target%20Sum/statement.md)                                                                           | [Solution](494.%20Target%20Sum/solution.js)                                              |
+| []  | 56  | [98. Validate Binary Search Tree](98.%20Validate%20Binary%20Search%20Tree/statement.md)                                       | [Solution](98.%20Validate%20Binary%20Search%20Tree/solution.js)                          |
+| []  | 57  | [75. Sort Colors](75.%20Sort%20Colors/statement.md)                                                                           | [Solution](75.%20Sort%20Colors/solution.js)                                              |
+| []  | 58  | [101. Symmetric Tree](101.%20Symmetric%20Tree/statement.md)                                                                   | [Solution](101.%20Symmetric%20Tree/solution.js)                                          |
+| []  | 59  | [110. Balanced Binary Tree](110.%20Balanced%20Binary%20Tree/statement.md)                                                     | [Solution](110.%20Balanced%20Binary%20Tree/solution.js)                                  |
+| []  | 60  | [230. Kth Smallest Element in a BST](230.%20Kth%20Smallest%20Element%20in%20a%20BST/statement.md)                             | [Solution](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.js)                   |
 
 ## Let's Connect 🤝
 
