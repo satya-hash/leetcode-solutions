@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../20.%20Valid%20Parentheses/statement.md)
+[Solution](739.%20Daily%20Temperatures/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../155.%20Min%20Stack/statement.md)
+
 # 739. Daily Temperatures
 
 **Difficulty:** Medium

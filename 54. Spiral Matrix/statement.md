@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../56.%20Merge%20Intervals/statement.md)
+[Solution](54.%20Spiral%20Matrix/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../48.%20Rotate%20Image/statement.md)
+
 # 54. Spiral Matrix
 
 **Difficulty:** Medium

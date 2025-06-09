@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../283.%20Move%20Zeroes/statement.md)
+[Solution](20.%20Valid%20Parentheses/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../739.%20Daily%20Temperatures/statement.md)
+
 # 20. Valid Parentheses
 
 **Difficulty:** Easy

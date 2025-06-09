@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../994.%20Rotting%20Oranges/statement.md)
+[Solution](933.%20Number%20of%20Recent%20Calls/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../232.%20Implement%20Queue%20using%20Stacks/statement.md)
+
 # 933. Number of Recent Calls
 
 **Difficulty:** Easy

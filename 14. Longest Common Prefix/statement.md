@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../patterns/1.prefix_sum/525.%20Contiguous%20Array/statement.md)
+[Solution](14.%20Longest%20Common%20Prefix/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../228.%20Summary%20Ranges/statement.md)
+
 # 14. Longest Common Prefix
 
 **Difficulty:** Easy <br>

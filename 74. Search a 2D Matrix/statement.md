@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../367.%20Valid%20Perfect%20Square/statement.md)
+[Solution](74.%20Search%20a%202D%20Matrix/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../33.%20Search%20in%20Rotated%20Sorted%20Array/statement.md)
+
 # 74. Search a 2D Matrix
 
 **Difficulty:** Medium

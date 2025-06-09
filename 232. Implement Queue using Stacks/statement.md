@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../933.%20Number%20of%20Recent%20Calls/statement.md)
+[Solution](232.%20Implement%20Queue%20using%20Stacks/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../876.%20Middle%20of%20the%20Linked%20List/statement.md)
+
 # 232. Implement Queue using Stacks
 
 **Difficulty:** Medium

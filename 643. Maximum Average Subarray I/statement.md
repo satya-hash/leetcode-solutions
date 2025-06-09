@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../53.%20Maximum%20Subarray/statement.md)
+[Solution](643.%20Maximum%20Average%20Subarray%20I/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md)
+
 # 643. Maximum Average Subarray I
 
 **Difficulty:** Easy

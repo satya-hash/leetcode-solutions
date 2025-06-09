@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../875.%20Koko%20Eating%20Bananas/statement.md)
+[Solution](226.%20Invert%20Binary%20Tree/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../104.%20Maximum%20Depth%20of%20Binary%20Tree/statement.md)
+
 # 226. Invert Binary Tree
 
 **Difficulty:** Easy

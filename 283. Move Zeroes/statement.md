@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../15.%203Sum/statement.md)
+[Solution](283.%20Move%20Zeroes/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../20.%20Valid%20Parentheses/statement.md)
+
 # 283. Move Zeroes
 
 **Difficulty:** Easy

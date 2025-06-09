@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../155.%20Min%20Stack/statement.md)
+[Solution](994.%20Rotting%20Oranges/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../933.%20Number%20of%20Recent%20Calls/statement.md)
+
 # 994. Rotting Oranges
 
 **Difficulty:** Medium

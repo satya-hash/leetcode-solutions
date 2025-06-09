@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../35.%20Search%20Insert%20Position/statement.md)
+[Solution](367.%20Valid%20Perfect%20Square/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../74.%20Search%20a%202D%20Matrix/statement.md)
+
 # 367. Valid Perfect Square
 
 **Difficulty:** Easy

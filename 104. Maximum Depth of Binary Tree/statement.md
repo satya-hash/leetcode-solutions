@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../226.%20Invert%20Binary%20Tree/statement.md)
+[Solution](104.%20Maximum%20Depth%20of%20Binary%20Tree/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../543.%20Diameter%20of%20Binary%20Tree/statement.md)
+
 # 104. Maximum Depth of Binary Tree
 
 **Difficulty:** Easy

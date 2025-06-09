@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../74.%20Search%20a%202D%20Matrix/statement.md)
+[Solution](33.%20Search%20in%20Rotated%20Sorted%20Array/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../875.%20Koko%20Eating%20Bananas/statement.md)
+
 # 33. Search in Rotated Sorted Array
 
 **Difficulty:** Medium

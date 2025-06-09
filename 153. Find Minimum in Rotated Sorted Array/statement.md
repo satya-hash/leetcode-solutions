@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../704.%20Binary%20Search/statement.md)
+[Solution](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../35.%20Search%20Insert%20Position/statement.md)
+
 # 153. Find Minimum in Rotated Sorted Array
 
 **Difficulty:** Medium

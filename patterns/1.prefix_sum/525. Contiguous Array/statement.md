@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/statement.md)
+[Solution](patterns/1.prefix_sum/525.%20Contiguous%20Array/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../14.%20Longest%20Common%20Prefix/statement.md)
+
 # 525. Contiguous Array
 
 **Difficulty:** Medium

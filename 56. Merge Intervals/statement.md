@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../238.%20Product%20of%20Array%20Except%20Self/statement.md)
+[Solution](56.%20Merge%20Intervals/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../54.%20Spiral%20Matrix/statement.md)
+
 # 56. Merge Intervals
 
 **Difficulty:** Medium

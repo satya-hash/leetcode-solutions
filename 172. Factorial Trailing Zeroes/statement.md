@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../36.%20Valid%20Sudoku/statement.md)
+[Solution](172.%20Factorial%20Trailing%20Zeroes/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../509.%20Fibonacci%20Number/statement.md)
+
 # 172. Factorial Trailing Zeroes
 
 **Difficulty:** Medium

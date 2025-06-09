@@ -1,3 +1,7 @@
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../232.%20Implement%20Queue%20using%20Stacks/statement.md)
+[Solution](876.%20Middle%20of%20the%20Linked%20List/solution.js)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../21.%20Merge%20Two%20Sorted%20Lists/statement.md)
+
 # 876. Middle of the Linked List
 
 **Difficulty:** Easy
