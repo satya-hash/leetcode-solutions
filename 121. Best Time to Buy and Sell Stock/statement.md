@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../392.%20Is%20Subsequence/statement.md)
-[Solution](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)
+[Solution](../121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/statement.md)
 
 # 121. Best Time to Buy and Sell Stock

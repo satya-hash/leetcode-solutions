@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../771.%20Jewels%20and%20Stones/statement.md)
-[Solution](217.%20Contains%20Duplicate/solution.js)
+[Solution](../217.%20Contains%20Duplicate/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../383.%20Ransom%20Note/statement.md)
 
 # 217. Contains Duplicate

@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../383.%20Ransom%20Note/statement.md)
-[Solution](53.%20Maximum%20Subarray/solution.js)
+[Solution](../53.%20Maximum%20Subarray/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../643.%20Maximum%20Average%20Subarray%20I/statement.md)
 
 # 53. Maximum Subarray

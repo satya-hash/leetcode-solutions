@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../228.%20Summary%20Ranges/statement.md)
-[Solution](patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/solution.js)
+[Solution](../patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../238.%20Product%20of%20Array%20Except%20Self/statement.md)
 
 # 560. Subarray Sum Equals K

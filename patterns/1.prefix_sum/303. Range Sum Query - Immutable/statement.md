@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/statement.md)
-[Solution](patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/solution.js)
+[Solution](../patterns/1.prefix_sum/303.%20Range%20Sum%20Query%20-%20Immutable/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../patterns/1.prefix_sum/525.%20Contiguous%20Array/statement.md)
 
 # 303. Range Sum Query - Immutable

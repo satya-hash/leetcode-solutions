@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../14.%20Longest%20Common%20Prefix/statement.md)
-[Solution](228.%20Summary%20Ranges/solution.js)
+[Solution](../228.%20Summary%20Ranges/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/statement.md)
 
 # 228. Summary Ranges

@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../143.%20Reorder%20List/statement.md)
-[Solution](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)
+[Solution](../19.%20Remove%20Nth%20Node%20From%20End%20of%20List/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../141.%20Linked%20List%20Cycle/statement.md)
 
 # 19. Remove Nth Node From End of List

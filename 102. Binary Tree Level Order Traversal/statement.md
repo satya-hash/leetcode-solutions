@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../543.%20Diameter%20of%20Binary%20Tree/statement.md)
-[Solution](102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.js)
+[Solution](../102.%20Binary%20Tree%20Level%20Order%20Traversal/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../70.%20Climbing%20Stairs/statement.md)
 
 # 102. Binary Tree Level Order Traversal

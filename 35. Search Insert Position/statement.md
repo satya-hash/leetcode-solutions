@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array/statement.md)
-[Solution](35.%20Search%20Insert%20Position/solution.js)
+[Solution](../35.%20Search%20Insert%20Position/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../367.%20Valid%20Perfect%20Square/statement.md)
 
 # 35. Search Insert Position

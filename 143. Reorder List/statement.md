@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../62.%20Unique%20Paths/statement.md)
-[Solution](143.%20Reorder%20List/solution.js)
+[Solution](../143.%20Reorder%20List/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../19.%20Remove%20Nth%20Node%20From%20End%20of%20List/statement.md)
 
 # 143. Reorder List

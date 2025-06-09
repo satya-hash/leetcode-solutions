@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../patterns/1.prefix_sum/560.%20Subarray%20Sum%20Equals%20K/statement.md)
-[Solution](238.%20Product%20of%20Array%20Except%20Self/solution.js)
+[Solution](../238.%20Product%20of%20Array%20Except%20Self/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../56.%20Merge%20Intervals/statement.md)
 
 # 238. Product of Array Except Self

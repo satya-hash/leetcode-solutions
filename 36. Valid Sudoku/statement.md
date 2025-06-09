@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../141.%20Linked%20List%20Cycle/statement.md)
-[Solution](36.%20Valid%20Sudoku/solution.js)
+[Solution](../36.%20Valid%20Sudoku/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../172.%20Factorial%20Trailing%20Zeroes/statement.md)
 
 # 36. Valid Sudoku

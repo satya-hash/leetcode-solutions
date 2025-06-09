@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../643.%20Maximum%20Average%20Subarray%20I/statement.md)
-[Solution](3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)
+[Solution](../3.%20Longest%20Substring%20Without%20Repeating%20Characters/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../125.%20Valid%20Palindrome/statement.md)
 
 # 3. Longest Substring Without Repeating Characters

@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../3.%20Longest%20Substring%20Without%20Repeating%20Characters/statement.md)
-[Solution](125.%20Valid%20Palindrome/solution.js)
+[Solution](../125.%20Valid%20Palindrome/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/statement.md)
 
 # 125. Valid Palindrome

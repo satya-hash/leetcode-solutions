@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../54.%20Spiral%20Matrix/statement.md)
-[Solution](48.%20Rotate%20Image/solution.js)
+[Solution](../48.%20Rotate%20Image/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../771.%20Jewels%20and%20Stones/statement.md)
 
 # 48. Rotate Image

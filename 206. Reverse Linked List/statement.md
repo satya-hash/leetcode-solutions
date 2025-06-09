@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../21.%20Merge%20Two%20Sorted%20Lists/statement.md)
-[Solution](206.%20Reverse%20Linked%20List/solution.js)
+[Solution](../206.%20Reverse%20Linked%20List/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../62.%20Unique%20Paths/statement.md)
 
 # 206. Reverse Linked List

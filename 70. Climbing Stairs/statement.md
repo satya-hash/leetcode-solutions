@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../102.%20Binary%20Tree%20Level%20Order%20Traversal/statement.md)
-[Solution](70.%20Climbing%20Stairs/solution.js)
+[Solution](../70.%20Climbing%20Stairs/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../198.%20House%20Robber/statement.md)
 
 # 70. Climbing Stairs

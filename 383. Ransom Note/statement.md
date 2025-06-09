@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../217.%20Contains%20Duplicate/statement.md)
-[Solution](383.%20Ransom%20Note/solution.js)
+[Solution](../383.%20Ransom%20Note/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../53.%20Maximum%20Subarray/statement.md)
 
 # 383. Ransom Note

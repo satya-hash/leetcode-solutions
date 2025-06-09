@@ -1,5 +1,4 @@
-
-[Solution](2239.%20Find%20Closest%20Number%20to%20Zero/solution.js)
+[Solution](../2239.%20Find%20Closest%20Number%20to%20Zero/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../1768.%20Merge%20Strings%20Alternately/statement.md)
 
 # 2239. Find Closest Number to Zero

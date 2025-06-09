@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../876.%20Middle%20of%20the%20Linked%20List/statement.md)
-[Solution](21.%20Merge%20Two%20Sorted%20Lists/solution.js)
+[Solution](../21.%20Merge%20Two%20Sorted%20Lists/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../206.%20Reverse%20Linked%20List/statement.md)
 
 # 21. Merge Two Sorted Lists

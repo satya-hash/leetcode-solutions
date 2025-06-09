@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../739.%20Daily%20Temperatures/statement.md)
-[Solution](155.%20Min%20Stack/solution.js)
+[Solution](../155.%20Min%20Stack/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../994.%20Rotting%20Oranges/statement.md)
 
 # 155. Min Stack

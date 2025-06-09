@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../104.%20Maximum%20Depth%20of%20Binary%20Tree/statement.md)
-[Solution](543.%20Diameter%20of%20Binary%20Tree/solution.js)
+[Solution](../543.%20Diameter%20of%20Binary%20Tree/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../102.%20Binary%20Tree%20Level%20Order%20Traversal/statement.md)
 
 # 543. Diameter of Binary Tree

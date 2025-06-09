@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../48.%20Rotate%20Image/statement.md)
-[Solution](771.%20Jewels%20and%20Stones/solution.js)
+[Solution](../771.%20Jewels%20and%20Stones/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../217.%20Contains%20Duplicate/statement.md)
 
 # 771. Jewels and Stones

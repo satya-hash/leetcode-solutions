@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../33.%20Search%20in%20Rotated%20Sorted%20Array/statement.md)
-[Solution](875.%20Koko%20Eating%20Bananas/solution.js)
+[Solution](../875.%20Koko%20Eating%20Bananas/solution.js)
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../226.%20Invert%20Binary%20Tree/statement.md)
 
 # 875. Koko Eating Bananas

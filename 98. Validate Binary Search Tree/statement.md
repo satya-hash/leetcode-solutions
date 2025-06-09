@@ -1,5 +1,5 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../198.%20House%20Robber/statement.md)
-[Solution](98.%20Validate%20Binary%20Search%20Tree/solution.js)
+[Solution](../98.%20Validate%20Binary%20Search%20Tree/solution.js)
 
 
 # 98. Validate Binary Search Tree
