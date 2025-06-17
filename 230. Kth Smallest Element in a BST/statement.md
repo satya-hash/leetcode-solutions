@@ -1,6 +1,6 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../322.%20Coin%20Change/statement.md)
 [Solution](../230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.js)
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../494.%20Target%20Sum/statement.md)
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../215.%20Kth%20Largest%20Element%20in%20an%20Array/statement.md)
 
 # 230. Kth Smallest Element in a BST
 
