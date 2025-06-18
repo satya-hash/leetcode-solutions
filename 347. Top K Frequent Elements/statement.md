@@ -1,7 +1,7 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../322.%20Coin%20Change/statement.md)
 [Solution](../347.%20Top%20K%20Frequent%20Elements/solution.js)
 
-<!-- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../215.%20Kth%20Largest%20Element%20in%20an%20Array/statement.md) -->
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../973.%20K%20Closest%20Points%20to%20Origin/statement.md)
 
 # 347. Top K Frequent Elements
 

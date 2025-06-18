@@ -103,6 +103,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 61  | [230. Kth Smallest Element in a BST](230.%20Kth%20Smallest%20Element%20in%20a%20BST/statement.md)                             | [Solution](230.%20Kth%20Smallest%20Element%20in%20a%20BST/solution.js)                   | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                  |
 | [x] | 62  | [215. Kth Largest Element in an Array](215.%20Kth%20Largest%20Element%20in%20an%20Array/statement.md)                         | [Solution](215.%20Kth%20Largest%20Element%20in%20an%20Array/solution.js)                 | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/)                |
 | [x] | 63  | [347. Top K Frequent Elements](347.%20Top%20K%20Frequent%20Elements/statement.md)                                             | [Solution](347.%20Top%20K%20Frequent%20Elements/solution.js)                             | [Link](https://leetcode.com/problems/top-k-frequent-elements/)                        |
+| [x] | 64  | [973. K Closest Points to Origin](973.%20K%20Closest%20Points%20to%20Origin/statement.md)                                     | [Solution](973.%20K%20Closest%20Points%20to%20Origin/solution.js)                        | [Link](https://leetcode.com/problems/k-closest-points-to-origin/)                     |
 
 ## Let's Connect 🤝
 
