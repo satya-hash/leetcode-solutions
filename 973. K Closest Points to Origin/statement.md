@@ -1,7 +1,7 @@
-[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../322.%20Coin%20Change/statement.md)
+[<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../347.%20Top%20K%20Frequent%20Elements/statement.md)
 [Solution](../973.%20K%20Closest%20Points%20to%20Origin/solution.js)
 
-<!-- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../215.%20Kth%20Largest%20Element%20in%20an%20Array/statement.md) -->
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../547.%20Number%20of%20Provinces/statement.md)
 
 # 973. K Closest Points to Origin
 
