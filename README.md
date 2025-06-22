@@ -107,7 +107,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 65  | [547. Number of Provinces](547.%20Number%20of%20Provinces/statement.md)                                                       | [Solution](547.%20Number%20of%20Provinces/solution.js)                                   | [Link](https://leetcode.com/problems/number-of-provinces/)                            |
 | [x] | 66  | [200. Number of Islands](200.%20Number%20of%20Islands/statement.md)                                                           | [Solution](200.%20Number%20of%20Islands/solution.js)                                     | [Link](https://leetcode.com/problems/number-of-islands/)                              |
 | [x] | 67  | [733. Flood Fill](733.%20Flood%20Fill/statement.md)                                                                           | [Solution](733.%20Flood%20Fill/solution.js)                                              | [Link](https://leetcode.com/problems/flood-fill/)                                     |
-| []  | 68  | [207. Course Schedule](207.%20Course%20Schedule/statement.md)                                                                 | [Solution](207.%20Course%20Schedule/solution.js)                                         | [Link](https://leetcode.com/problems/course-schedule/)                                |
+| [x] | 68  | [207. Course Schedule](207.%20Course%20Schedule/statement.md)                                                                 | [Solution](207.%20Course%20Schedule/solution.js)                                         | [Link](https://leetcode.com/problems/course-schedule/)                                |
 
 ## Let's Connect 🤝
 

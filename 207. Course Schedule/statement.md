@@ -1,7 +1,7 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../200.%20Number%20of%20Islands/statement.md)
 [Solution](../207.%20Course%20Schedule/solution.js)
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../207.%20Course%20Schedule/statement.md)
+<!-- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../207.%20Course%20Schedule/statement.md) -->
 
 # 207. Course Schedule
 
