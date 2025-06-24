@@ -1,7 +1,7 @@
 [<-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](../200.%20Number%20of%20Islands/statement.md)
 [Solution](../733.%20Flood%20Fill/solution.js)
 
-<!-- [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../547.%20Number%20of%20Provinces/statement.md) -->
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->](../46.%20Permutations/statement.md)
 
 # 733. Flood Fill
 
