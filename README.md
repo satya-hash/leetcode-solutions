@@ -113,7 +113,7 @@ This repository contains my daily solutions to LeetCode problems. Each problem i
 | [x] | 71  | [77. Combinations](77.%20Combinations/statement.md)                                                                           | [Solution](77.%20Combinations/solution.js)                                               | [Link](https://leetcode.com/problems/combinations/)                                   |
 | [x] | 72  | [39. Combination Sum](39.%20Combination%20Sum/statement.md)                                                                   | [Solution](39.%20Combination%20Sum/solution.js)                                          | [Link](https://leetcode.com/problems/combination-sum/)                                |
 | [x] | 73  | [128. Longest Consecutive Sequence](128.%20Longest%20Consecutive%20Sequence/statement.md)                                     | [Solution](128.%20Longest%20Consecutive%20Sequence/solution.js)                          | [Link](https://leetcode.com/problems/longest-consecutive-sequence/)                   |
-| []  | 74  | [17. Letter Combinations of a Phone Number](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/statement.md)               | [Solution](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.js)            | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)          |
+| [x]  | 74  | [17. Letter Combinations of a Phone Number](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/statement.md)               | [Solution](17.%20Letter%20Combinations%20of%20a%20Phone%20Number/solution.js)            | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)          |
 
 ## Let's Connect 🤝
 
